@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="koltinbyexample:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="koltin-by-example-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="koltinbyexample:war exploded" />
+    </root>
+  </artifact>
+</component>
